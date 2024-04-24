@@ -1,3 +1,0 @@
-C:/Users/macie/source/repos/Data-Structures-Implementation/build/CMakeFiles/Projekt1.dir
-C:/Users/macie/source/repos/Data-Structures-Implementation/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/macie/source/repos/Data-Structures-Implementation/build/CMakeFiles/ZERO_CHECK.dir
