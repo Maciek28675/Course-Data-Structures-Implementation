@@ -132,7 +132,7 @@ void OperationMenu<T>::run()
 					std::cout << value << " hasn't been found\n";
 
 				else
-					std::cout << value << "has been found at " << wasFound << "\n";
+					std::cout << value << " has been found at " << wasFound << "\n";
 
 				break;
 			}
@@ -164,7 +164,7 @@ void OperationMenu<T>::run()
 			}
 		}
 
-		std::cout << "Press any key to continue";
+		std::cout << "Press enter to continue";
 
 		// Wait for a key presss
 		std::cin.get();

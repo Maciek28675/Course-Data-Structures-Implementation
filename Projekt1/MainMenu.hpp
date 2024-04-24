@@ -33,7 +33,7 @@ void MainMenu::run()
 		this->display();
 		std::cin >> userChoice;
 
-		std::cout << "Press any key to continue";
+		std::cout << "Press enter to continue";
 
 		// Wait for a key presss
 		std::cin.get();
