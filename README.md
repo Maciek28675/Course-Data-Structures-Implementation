@@ -43,15 +43,15 @@ averageTime = sum / repetitions;
 
 ### Example chart
 
-![chart 1](chart1.png)
+![chart 1](https://github.com/Maciek28675/Data-Structures-Implementation/blob/main/Images/chart1.png)
 
 ## Menu
 The program features user friendly menu. The user can choose a data structure, it's data type and an operation to perform.  
 Here is how it looks like:  
 
-![menu example 1](menuExample1.bmp)
+![menu example 1](https://github.com/Maciek28675/Data-Structures-Implementation/blob/main/Images/menuExample1.bmp)
 
-![menu example 2](menuExample2.bmp)
+![menu example 2](https://github.com/Maciek28675/Data-Structures-Implementation/blob/main/Images/menuExample2.bmp)
 
 ## Additional repository
 This is the final, polished version of the program (still, can be improved). Below is a link to the first version of the repository that we've used to colaborate on the project. It's purpose was to test everything and learn GitHub.
